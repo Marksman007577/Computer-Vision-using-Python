@@ -1,2 +1,1 @@
 import matplotlib
-print("Hello")
