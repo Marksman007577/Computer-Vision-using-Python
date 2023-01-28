@@ -1,0 +1,4 @@
+#for detection
+python object_detector.py
+#for tracking 
+python object_tracker.py
